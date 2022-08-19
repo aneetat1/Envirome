@@ -1,5 +1,6 @@
 # Envirome
 Kode With Klossy 2022 Data Science Project
+
 There’s a concerning correlation between where you live and how long you’ll live.
 
 According to the WHO, 24% of all estimated global deaths are linked to where someone lives. Continuing our society's mass ignorance and inaction furthers the disparities between communities.
